@@ -179,7 +179,7 @@ Gemini AI Explanation Layer
    ↓
 Prediction Result + Downloadable Report + API Response
 ```
-
+<img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/c7991e3a-4235-4a9a-bd8e-2309229bf92f" />
 ---
 
 ## 🔍 Exploratory Data Analysis
@@ -451,6 +451,8 @@ Gemini AI Explanation + Advice + Report
    ↓
 Result Page / API JSON Response
 ```
+
+<img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/0aab1540-89df-48aa-ae5f-6085e9a200d9" />
 
 ---
 

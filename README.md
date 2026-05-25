@@ -65,7 +65,34 @@
 <!-- ===================== ANIMATED DIVIDER ===================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2B,50:14B8A6,100:7C3AED&height=3&section=header" />
 
+<div align="center">
 
+## ✨ Healthcare Cost Prediction Meets Explainable AI
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Analytics
+Comprehensive EDA to understand how age, BMI, smoking status, region, and dependents influence insurance charges.
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 Machine Learning
+Regression model comparison using Scikit-Learn, XGBoost, and LightGBM to identify the strongest predictor.
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 Gemini AI
+AI-generated insurance cost explanations that transform model output into readable business insights.
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 📌 Project Overview

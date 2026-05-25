@@ -1,34 +1,70 @@
-# 🏥 MediCost AI: Medical Insurance Cost Intelligence
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML%20Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-Model%20Comparison-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LightGBM-Gradient%20Boosting-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-Web%20Application-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-AI%20Insights-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-JSON%20Endpoint-4B32C3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joblib-Model%20Serialization-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge" />
-</p>
+<!-- ===================== ANIMATED PREMIUM HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,45:0E7490,75:14B8A6,100:7C3AED&height=235&section=header&text=MediCost%20AI&fontSize=58&fontColor=ffffff&fontAlignY=37&desc=Medical%20Insurance%20Cost%20Intelligence%20Platform&descAlignY=59&descSize=20&animation=fadeIn" />
 
-<p align="center">
-  <b>End-to-end Data Analytics, Machine Learning, Flask Web App, and Gemini AI solution for predicting annual medical insurance cost and explaining key cost drivers.</b>
-</p>
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&pause=1100&color=14B8A6&center=true&vCenter=true&width=900&height=55&lines=Predicting+Annual+Medical+Insurance+Costs+with+Machine+Learning;Explaining+Key+Cost+Drivers+with+Gemini+AI;Built+with+Flask+%7C+XGBoost+%7C+LightGBM+%7C+Scikit-Learn;Turning+Healthcare+Data+into+Actionable+Intelligence" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Akshay8087?tab=repositories">GitHub Profile</a> •
-  <a href="#-project-overview">Overview</a> •
-  <a href="#-business-impact">Business Impact</a> •
-  <a href="#-exploratory-data-analysis">EDA</a> •
-  <a href="#-machine-learning-modeling">ML Modeling</a> •
-  <a href="#-flask--gemini-ai-application">Flask App</a> •
-  <a href="#-api-endpoint">API</a> •
-  <a href="#-how-to-run-locally">Run Locally</a>
-</p>
+<br/>
+
+<!-- ===================== PREMIUM ONE-LINER ===================== -->
+<h3>
+  AI-assisted healthcare analytics solution for predicting insurance charges,
+  uncovering cost drivers, and delivering intelligent risk summaries.
+</h3>
+
+<br/>
+
+<!-- ===================== ACTION BUTTONS ===================== -->
+<a href="https://github.com/Akshay8087?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repository-071A2B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#-project-overview">
+  <img src="https://img.shields.io/badge/Project_Overview-0E7490?style=for-the-badge&logo=readme&logoColor=white" />
+</a>
+<a href="#-machine-learning-modeling">
+  <img src="https://img.shields.io/badge/ML_Modeling-14B8A6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</a>
+<a href="#-flask--gemini-ai-application">
+  <img src="https://img.shields.io/badge/AI_Application-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- ===================== TECH STACK ===================== -->
+<img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Analytics-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-Modeling-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-Regression-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LightGBM-Boosting-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flask-Web_App-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-AI_Insights-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/API-JSON_Endpoint-4B32C3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+<br/><br/>
+
+<!-- ===================== PREMIUM NAVIGATION ===================== -->
+<a href="#-project-overview">Overview</a> •
+<a href="#-business-impact">Business Impact</a> •
+<a href="#-exploratory-data-analysis">EDA</a> •
+<a href="#-machine-learning-modeling">ML Modeling</a> •
+<a href="#-flask--gemini-ai-application">Flask + Gemini AI</a> •
+<a href="#-api-endpoint">API</a> •
+<a href="#-how-to-run-locally">Run Locally</a>
+
+</div>
+
+<br/>
+
+<!-- ===================== ANIMATED DIVIDER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:071A2B,50:14B8A6,100:7C3AED&height=3&section=header" />
+
 
 ---
 
